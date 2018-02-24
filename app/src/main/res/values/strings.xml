@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FManagerGUIND</string>
+    <string name="menu_aberto">menu_aberto</string>
+    <string name="menu_fechado">menu_fechado</string>
+    <string name="mensagem_fragmento1">Oi, eu sou o fragmento 1</string>
+    <string name="mensagem_fragmento2">Oi, eu sou o fragmento 2</string>
+    <string name="muda_fragmento">Muda Fragmento</string>
+    <string name="abriu">abriu</string>
+</resources>
